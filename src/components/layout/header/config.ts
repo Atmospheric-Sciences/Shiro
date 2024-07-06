@@ -102,11 +102,6 @@ export const headerMenuConfig: IHeaderMenu[] = [
         path: '/says',
         icon: h(FaSolidComments),
       },
-      {
-        title: '实验',
-        icon: h(RMixPlanet),
-        path: 'https://travel.moe/go.html',
-      },
     ],
   },
 ]
