@@ -253,11 +253,6 @@ const windsock = [
     path: '/says',
     icon: FaSolidComments,
   },
-  {
-    title: '跃迁',
-    icon: RMixPlanet,
-    path: 'https://travel.moe/go.html',
-  },
 ]
 
 const Windsock = () => {
